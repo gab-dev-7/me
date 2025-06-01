@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate CS studdent</h3>
+<h3 align="center">A passionate CS student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gab-dev-7&label=Profile%20views&color=0e75b6&style=flat" alt="gab-dev-7" /> </p>
 
