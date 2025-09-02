@@ -1,4 +1,4 @@
-# Hey! MY name's Gabriel and I'm studying CS at ETHZ
+# Hey! My name's Gabriel and I'm studying CS at ETHZ
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaabriel__7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriel-windlin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:gawindlin@gmail.com) 
